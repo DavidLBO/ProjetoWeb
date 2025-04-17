@@ -28,11 +28,11 @@ David Lopes Bezerra de Oliveira - *2312130068*
 
    - Comece a adicionar seus livros
 
-4. **Funcionalidades Principais**
+### Funcionalidades Principais
    
    *Cadastro de Livros*
 
-      - Adicione livros com:
+   - Adicione livros com:
 
       - Título completo e autor
 
@@ -44,23 +44,23 @@ David Lopes Bezerra de Oliveira - *2312130068*
 
    *Organização e Filtros*
    
-      - Visualização por status de leitura
+   - Visualização por status de leitura
 
-      - Sistema de ordenação:
+   - Sistema de ordenação:
 
-         - Por nota (maiores avaliações primeiro)
+     - Por nota (maiores avaliações primeiro)
 
-         - Ordem alfabética por título
+      - Ordem alfabética por título
 
    *Gerenciamento de Usuários*
 
-      - Cadastro de novos usuários
+   - Cadastro de novos usuários
 
-      - Sistema de autenticação (login/logout)
+   - Sistema de autenticação (login/logout)
 
    *Interface*
-      - Design moderno e responsivo
+   - Design moderno e responsivo
 
-      - Adaptável para diferentes tamanhos de tela
+   - Adaptável para diferentes tamanhos de tela
 
-      - Interações fluidas e intuitivas
+   - Interações fluidas e intuitivas
