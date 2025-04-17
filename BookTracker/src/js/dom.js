@@ -94,7 +94,7 @@ const DOM = {
                     <input type="hidden" id="rating" value="0" required>
                 </div>
                 <div class="form-group">
-                    <label for="review">Resenha</label>
+                    <label for="review">Resenha (Opcional)</label>
                     <textarea id="review"></textarea>
                 </div>
                 <button type="submit">Adicionar Livro</button>
